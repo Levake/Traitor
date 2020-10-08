@@ -1,0 +1,39 @@
+@keyframes loader {
+  0% {height: 400px;}
+  100%{height: 0px;}}
+
+@keyframes loader2 {
+  0% {
+    opacity: 1;
+  }  
+  25%
+  {
+    width: 34%;
+  }
+  50%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 0;
+    width: 0%;
+  }}
+
+  @keyframes loader3 {
+  0% {opacity: 0;}
+  100%{opacity: 100;}}
+
+   @keyframes animate_menu {
+  0% {opacity: 0;}
+  100%{opacity: 100;}}
+
+  @keyframes animate_menu2 {
+  0% {opacity: 100;}
+  100%{opacity: 0;}}
+
+  @keyframes animate_informationgame {
+  0% {opacity: 0;}
+  100%{opacity: 100;}}
+
+  @keyframes animate_informationgame2 {
+  0% {opacity: 100;}
+  100%{opacity: 0;}}
